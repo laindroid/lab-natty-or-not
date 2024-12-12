@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Projeto 1 do bootcamp CAIXA - IA Generativa com Microsoft Copilot(DIO)
 
 ## 📒 Descrição
 Este ebook é um guia prático para quem deseja ter uma horta ou jardim mas não possui espaço aberto para cultivo.
