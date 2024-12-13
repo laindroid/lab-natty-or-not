@@ -13,7 +13,7 @@ Planejamento: Estruturei o eBook em diversas seções, cobrindo todos os aspecto
 
 Pesquisa e Redação: Utilizei o Microsoft Copilot para gerar textos detalhados sobre cada tópico, assegurando informações precisas e práticas.
 
-Design: Criamos uma capa atraente utilizando também o Copilot e montei o eBook no Canva, adicionando formatações e imagens conforme necessário.
+Design: Criei uma capa atraente utilizando também o Copilot e montei o eBook no Canva, adicionando formatações e imagens conforme necessário.
 
 ## 🚀 Resultados
 [Você pode conferir o resultado aqui](https://www.canva.com/design/DAGZFS4_3Ng/V4hzbdnIolHD_S01BICbBw/view?utm_content=DAGZFS4_3Ng&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h03c60b30d3)
