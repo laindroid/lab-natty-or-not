@@ -5,6 +5,7 @@ Este projeto consiste em um eBook sobre jardinagem urbana, abordando desde o pla
 
 ## 🤖 Tecnologias Utilizadas
 Microsoft Copilot: Para geração de conteúdo textual e estruturação do eBook.
+
 Canva: Para criação da capa e design do eBook.
 
 ## 🧐 Processo de Criação
